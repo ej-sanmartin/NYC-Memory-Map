@@ -1,4 +1,4 @@
 # NYC Memory Map
-Fake photography site with images from my instagram. Created so that I could aesthetically display my favourite pictures from my instagram and to master CSS Grid and Flexbox, as well as advance my CSS skills. Plan to expand upon this in the future to a fully fledge photography blog, complete with a Node.js and Express backend with a MongoDB database. Perhaps add some React as well?.. Could be seen on [codepen.io](https://codepen.io/ej-sanmartin/pen/XBZrOZ)
+A static web page deployed to Heroku. Used minimal PHP to be able to properly deploy onto Heroku. This site was created so I could play around with the Google Maps API and display my favourite places to go to in NYC. Simple page but I enjoyed making it, I could improve on it by having the data for the Google Maps markers to be stored in a database, like SQL-lite or some place smaller while also creating a more secure backend to hide API keys. Could be seen [here](https://ues-memory-map.herokuapp.com/index.html)
 
 ![Memory Map Website Page](img/memory_map.png)
