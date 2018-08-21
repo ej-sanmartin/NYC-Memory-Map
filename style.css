@@ -8,9 +8,19 @@ html {
   color: #C2DFFF;
 }
 
-.container {
-  margin-left: 4em;
-  margin-right: 4em;
+/* Mobile devices */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .container {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+}
+
+@media only screen and (min-width : 481px) {
+  .container {
+    margin-left: 4em;
+    margin-right: 4em;
+  }
 }
 
 header {
